@@ -1,4 +1,5 @@
-.DS_Store
-htop
-raycast
-thefuck
+*
+!alacritty/
+!lvim/
+!ranger/
+!.gitignore

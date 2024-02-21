@@ -3,5 +3,6 @@
 !lvim/
 !ranger/
 !tmux/
+!tmux/*
 !.gitignore
 

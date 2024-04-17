@@ -1,8 +1,8 @@
 *
-!alacritty/
-!lvim/
-!ranger/
-!tmux/
-!tmux/*
+!nvim/**
+!alacritty/**
+!lvim/**
+!ranger/**
+!tmux/**
 !.gitignore
 
